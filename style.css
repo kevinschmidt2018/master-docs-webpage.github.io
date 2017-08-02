@@ -1,0 +1,106 @@
+.header {
+  background-image: url(/Users/kevinschmidt/Desktop/Interactive\ Journalism/Foundations/Underpass.jpg);
+  height: 450px;
+  background-position: center;
+  background-size: cover;
+}
+
+.bio {
+
+}
+
+ img {
+  border-radius: 50%;
+  height: 100px;
+  background-position: right;
+  background-size: cover;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background: #f7f7f7;
+}
+
+
+h1 {
+  
+  font-family: 'PT Sans', sans-serif;
+  font-size: 108px;
+  color: #F0FFFF;
+  text-shadow: 2px 2px 4px #000000;
+  line-height: 100px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+/** List style **/
+
+h2 {
+  color: #191970;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 40px;
+  font-weight: 950;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+ul {
+  color: #191970;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 28px;
+  font-weight: 950;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+}
+
+li {
+  border-bottom: 3px solid #E4BB97;
+  list-style: disc;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+}
+
+p {
+  color: #444444;
+  line-height: 20px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+}
+
+a {
+  color: #2F4F4F;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 20px;
+  font-weight: 1100;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+
+.credit { 
+  position: relative;
+  color: #2F4F4F;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 13px;
+  text-align: right;
+}
+
+.caption { 
+  position: relative;
+  color: #2F4F4F;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 16px;
+ 
+}
+
+<a href="mailto:kevinschmidt2018@u.northwestern.edu">Email Me!</a>
+
+
+
